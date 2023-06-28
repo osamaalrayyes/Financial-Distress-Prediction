@@ -1,7 +1,7 @@
 # Financial-Distress-Prediction
 Financial distress prediction executed on Python (Scikit-learn)
 
-Project Description: Conducted predictive classification models using Scikit-learn to predict financial distress while utilizing hyperparameter optimization for Logistic Regression, Decision Trees, XGBoost, and Random Forests. The models aim to predict financial distress using corporate governance variables and measure the relationship between them.
+Project Description: Conducted predictive classification models using Scikit-learn to predict financial distress while utilizing hyperparameter optimization for Logistic Regression, Support Vector Machines, Decision Trees, Random Forests, Artificial Neural Networks. The models aim to predict financial distress using corporate governance variables and measure the relationship between them.
 
 Project Outcome: Enhanced my Python skills, gained experience using different libraries, and sharpened my Tableau skills.
 
